@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+h1.logo{
+	margin-right: 2rem;
+	font-size: 2rem;
+}
+
+ul li a:hover{
+	color: #FFC107;
+}
+
+header{
+	border-bottom: 1px solid #ccc;
+}
